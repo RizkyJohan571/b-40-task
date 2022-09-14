@@ -1,0 +1,41 @@
+body{
+	/*background-color: dimgray;*/
+	font-family: arial;
+}
+
+.container{
+	background-color: whitesmoke;
+	width: 540px;
+	margin: 60px auto;
+	padding: 20px;
+	border:2px solid darkgray;
+	box-shadow: 0 3px 6px  darkgray ;
+}
+
+.button{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+}
+
+.social-media {
+	/*background-color: lightblue;*/
+}
+.social-media i{
+	margin-bottom: 20px;
+	font-size: 30px;
+	margin-left: 72px;
+}
+
+.porto{
+	/*background-color: lightgrey;*/
+}
+
+.porto p{
+	margin-left: 30px;
+}
+
+
+
+
+
